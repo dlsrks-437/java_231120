@@ -24,6 +24,8 @@ public class Test02 {
 		
 		/// Ctrl + 3 <- 단축키
 		
+		System.out.println("ERROR");
+		
 		
 	}
 
